@@ -1,80 +1,90 @@
-# Hi there! I'm Emam Hasan 👋
-**Machine Learning Engineer at Nascenia**
+# Hi there, I'm Emam Hasan 👋
 
-[![LinkedIn](https://img.shields.io/badge/-Emam_Hasan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emam-hasan302)](https://www.linkedin.com/in/emam-hasan302)
-[![GitHub](https://img.shields.io/badge/-foyez--hub-black?style=flat&logo=github&logoColor=white&link=https://github.com/foyez-hub)](https://github.com/foyez-hub)
+**Machine Learning Engineer** | **AI & NLP Researcher** | **Bangladeshi**
 
-
----
-
-### 🎓 **Education**
-- **United International University** | B.Sc. in Computer Science and Engineering (2020-2024)
-### 💻 **Skills**
-- **Languages**: C, C++, Python, PHP, JavaScript, Java, HTML, CSS, SQL
-- **Frameworks/Tools**: Laravel, Selenium, Bootstrap, Git, LaTeX, TensorFlow
-- **Databases**: MySQL, Firebase
-- **Specialties**: Machine Learning, NLP, Deep Learning, Web Development, RESTful APIs
+I build production AI systems — from RAG chatbots serving millions of users to lightweight edge-deployed vision models. My research spans medical image analysis, low-resource NLP, and model efficiency.
 
 ---
 
-### 💼 **Experience**
-- **Machine Learning Engineer** at Nascenia | July 2024 - Present
-  - Developed RAG models with Llama 2 and GPT, utilizing ChromaDB for efficient NLP tasks.
-  - Fine-tuned BanglaT5 for accurate Bengali-English translation, enhancing training with custom datasets.
+## 🔬 Research Interests
+
+- Low-resource & dialect NLP (Bangla dialects, machine translation)
+- Medical image analysis (OCR, retinopathy, cell biology)
+- Model efficiency — knowledge distillation, edge deployment
+- Retrieval-Augmented Generation (RAG) systems
 
 ---
 
+## 🛠️ Tech Stack
+
+**AI/ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Backend & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 
 ---
 
-### 🚀 **Projects**
-#### [Cinephiles](https://github.com/foyez-hub/Cinephiles)
-- Web app for movie enthusiasts with features like exploration, lists, and watch parties.
-- **Technologies**: Laravel, PHP, JavaScript, MySQL
+## 🏆 Selected Publications
 
-#### [Codewar](https://github.com/foyez-hub/Codewar)
-- Platform for coding contests, problem-solving, and progress tracking.
-- **Technologies**: JavaScript, PHP, MySQL
-
-#### [Course Management System](https://github.com/foyez-hub/CourseManagement)
-- A website for course selection, recommendations, and friend-based course matching.
-- **Technologies**: PHP, MySQL, JavaScript
-
+| Year | Title | Publisher |
+|------|-------|-----------|
+| 2026 | Deep Learning-Enhanced OCT Image Analysis Pipeline | Springer |
+| 2025 | CellRegNet: Deep Learning for Protein Function | BR Foundation |
+| 2024 | ThreatScan: Website Security with ML | IEEE TENSYMP |
+| 2024 | Ensemble Deep Learning for Hair Fall Classification | IEEE TENSYMP |
+| 2023 | Lightweight Diabetic Retinopathy via KD | MDPI |
+| 2023 | EWasteNet: E-Waste Classification | IEEE ICSECS |
+| 2023 | Data Segmentation with Improved K-Means | IEEE ICCIT |
 
 ---
 
-### 📚 **Research**
-#### [Toward Lightweight Diabetic Retinopathy Classification](https://www.mdpi.com/2076-3417/13/22/12397)
-- **MDPI** · November 16, 2023
+## 🚀 Featured Projects
 
-#### [Data Segmentation with Improved K-Means Clustering Algorithm](https://ieeexplore.ieee.org/document/10441078)
-- **IEEE 2023** 26th International Conference on Computer and Information Technology | December 13-15, 2023
+### 🔍 Vehicle Detector
+> Lightweight YOLOv8n detecting 11 vehicle classes — deployed on Android via ONNX Runtime at **22 FPS**
 
----
+### 📰 NewsTok
+> TikTok-style AI news platform converting scraped articles into short reels — Spring Boot + Python dual-server
 
-### 🎮 **Competitive Programming**
-- **Codechef**: [ehasan302](https://www.codechef.com/users/ehasan302) | **Highest Rating**: 1578 | **Solved**: 112+ problems
-- **Codeforces**: [F_O_Y_E_Z](https://codeforces.com/profile/F_O_Y_E_Z) | **Max Rating**: 1242 (Pupil) | **Solved**: 1105+ problems
-- **AtCoder**: [emam_hasan](https://atcoder.jp/users/emam_hasan) | **Max Rating**: 278-Kyu | **Solved**: 173+ problems
-- **Leetcode**: [F_O_Y_E_Z](https://leetcode.com/F_O_Y_E_Z/) | **Solved**: 60+ problems
+### 🎬 Cinephiles
+> Full-stack movie platform with recommendation engine and watch parties — led a team of 5
 
 ---
 
-### 📈 **GitHub Stats**
-![Emam's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyez-hub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foyez-hub&layout=compact&theme=radical)
+## 🏅 Awards
+
+- 🥇 **1st Place** — UIU Intra University AI Contest (100+ participants)
+- 🏆 **Finalist** — National Collegiate Programming Contest, Jahangirnagar University
+- 💰 **USD 2,500 Research Grant** — Institute of Advanced Research, UIU
+- 🥉 **2nd Runner-up** — UIU CSE Project Show (Microprocessors Lab)
+- **4th Place** — UIU Coders' Combat 3.0 (200+ participants)
 
 ---
 
-### 🔥 **Streak Stats**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=foyez-hub&theme=radical)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+
+![Emam's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyez-hub&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foyez-hub&layout=compact)
 
 ---
 
-### ✨ **Quote of the Day**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emam-hasan302)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emamhasan9203@gmail.com)
 
 ---
 
-### 🌟 **Connect with me**
-Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/emam-hasan302) or visit my [Portfolio](https://foyez-hub.github.io/emam-hasan)!
+*"Building AI that works for everyone — including the 300M+ Bangla speakers often left behind by NLP research."*
