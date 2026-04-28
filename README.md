@@ -87,4 +87,3 @@ I build production AI systems — from RAG chatbots serving millions of users to
 
 ---
 
-*"Building AI that works for everyone — including the 300M+ Bangla speakers often left behind by NLP research."*
